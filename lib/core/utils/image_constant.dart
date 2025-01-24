@@ -102,11 +102,11 @@ class ImageConstant {
   static String imgTelevision = '$imagePath/img_television.svg';
   static String imgImage12 = '$imagePath/img_image_12.png';
   static String imgImage13 = '$imagePath/img_image_13.png';
-  static String imgImage9200x158 = '$imagePath/img_image_9_200x158.png';
-  static String imgImage18200x158 = '$imagePath/img_image_18_200x158.png';
+  static String imgImage9200x150 = '$imagePath/img_image_9_200x150.png';
+  static String imgImage10200x150 = '$imagePath/img_image_18_200x158.png';
   static String imgImage11200x150 = '$imagePath/img_image_11_200x150.png';
-  static String imgImage12200x158 = '$imagePath/img_image_12_200x158.png';
-  static String imgImage13202x158 = '$imagePath/img_image_13_202x158.png';
+  static String imgImage12200x150= '$imagePath/img_image_12_200x158.png';
+  static String imgImage13200x150 = '$imagePath/img_image_13_202x158.png';
   static String imgImage14 = '$imagePath/img_image_14.png';
   static String imgFavorite = '$imagePath/img_favorite.svg';
   static String imgEllipse20 = '$imagePath/img_ellipse_20.png';

@@ -59,6 +59,7 @@ class AppRoutes {
   static const String userDetailsFourScreen = '/user_details_four_screen';
   static const String userDetailsFiveScreen = '/user_details_five_screen';
   static const String homeOneScreen = '/home_one_screen';
+  static const String homeOneInitialPage = '/home_one_initial_page';
   static const String homeTwoScreen = '/home_two_screen';
   static const String homeThreeScreen = '/home_three_screen';
   static const String homeFourScreen = '/home_four_screen';
@@ -66,6 +67,7 @@ class AppRoutes {
   static const String homeSixScreen = '/home_six_screen';
   static const String homeSevenScreen = '/home_seven_screen';
   static const String homeEightScreen = '/home_eight_screen';
+  static const String homeNinePage = '/home_nine_page';
   static const String messagingOneScreen = '/messaging_one_screen';
   static const String messagingTwoScreen = '/messaging_two_screen';
   static const String messagingThreeScreen = '/messaging_three_screen';
@@ -82,6 +84,7 @@ class AppRoutes {
   static const String messagingSeventeenScreen = '/messaging_seventeen_screen';
   static const String nftMktOneScreen = '/nft_mkt_one_screen';
   static const String nftMktTwoScreen = '/nft_mkt_two_screen';
+  static const String allMatchesOnePage = '/all_matches_one_page';
   static const String allMatchesTwoScreen = '/all_matches_two_screen';
   static const String allMatchesThreeScreen = '/all_matches_three_screen';
   static const String accSettingsOneScreen = '/acc_settings_one_screen';
